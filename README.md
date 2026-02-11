@@ -1,1 +1,1 @@
-This is a report on a practicall assingment at Bauman Moscow State University. It demonstrated my knowledge of Fourier Transforms and the Volterra Integral Equations as well as the ability to use them in practical tasks. 
+This is a report on a practicall assingment at Bauman Moscow State University, completed in 2021. It demonstrated my knowledge of Fourier Transforms and the Volterra Integral Equations as well as the ability to use them in practical tasks. 
